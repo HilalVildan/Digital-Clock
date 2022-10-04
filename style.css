@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+    height: 100vh;
+
+}
+
+#clock{
+    color:deepskyblue ;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    text-align: center;
+    margin-top: 350px;
+    font-size: 100px;
+   
+}
