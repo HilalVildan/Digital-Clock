@@ -5,7 +5,6 @@ function renderTime() {
   let m = currentTime.getMinutes();
   let s = currentTime.getSeconds();
 
-
   if (h == 0) {
     h = 12;
   } else if (h > 12) {
